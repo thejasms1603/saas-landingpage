@@ -2,8 +2,11 @@
 Xora is a modern UI/UX SaaS website developed using React.js and Tailwind CSS, exemplifying modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites.
 
 ⚙️ Tech Stack
+
 Vite
+
 React.js
+
 Tailwind CSS
 
 🔋 Features
