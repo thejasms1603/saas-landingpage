@@ -7,6 +7,7 @@ React.js
 Tailwind CSS
 
 🔋 Features
+
 👉 Stunning Sections: Includes hero, features, pricing (monthly/yearly), FAQ, testimonials, and download software sections.
 
 👉 Smooth Animations: Complex CSS for fluid animations and eye-catching effects.
